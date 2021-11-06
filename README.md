@@ -5,3 +5,6 @@ Japan's forest
 Project started 
 TODO list
 Samples expected from sequencing core
+
+
+Maize reference
